@@ -1,3 +1,33 @@
+## Self-Study Questions
+
+Demonstrate your understanding of this week's concepts by answering the following free-form questions.
+
+Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
+
+1. If you were to describe semantic HTML to the next cohort of students, what would you say?  Sematic HTML introduces meaning to the web page rather than just presentation. It's separating structure with style and making it clear to the browser what the meaing of a page and content is.
+
+
+
+2. Name two big differences between ```display: block;``` and ```display: inline;```.
+Dispolay block means that the element is displayed as a block, as paagraph and headers while inline are displayed inside the current block on the same line.
+
+
+3. What are the 4 areas of the box model?
+
+1. padding
+2. margin
+3. border
+4. content
+
+4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+
+Horizontal
+
+5. Explain why git is valuable to a team of developers.
+
+Collaboration and version control for tracking each and every version of a code written.
+
+
 # Sprint Challenge: User Interface and Git - Multi-Page Website
 
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored User Interface and Git. During this Sprint, you studied Semantic HTML, CSS Fundamentals, CSS Flexbox Module, and Git. In your challenge this week, you will demonstrate proficiency by creating a multi page website that has some missing HTML elements as well as CSS specificity problems that need to be solved.  You will also create an additional web page that will be linked to from a navigation you will build.

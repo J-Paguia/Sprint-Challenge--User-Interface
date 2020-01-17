@@ -144,3 +144,95 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+header  {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 15px;
+    margin-bottom: 45px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    width: 85%;
+    margin-top: 25px;
+}
+
+a   {
+    text-decoration: none;
+    color: #444444;
+
+}
+
+.jumbo-image    {
+    margin-bottom: 20px;
+}
+
+
+.top-container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+
+
+.first-level-about, .second-level-about {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.first-level-about p, .secod-level-about p   {
+    padding-bottom: 20px;
+}
+
+.second-level-about p   {
+padding-bottom: 20px;
+}
+
+footer{
+    margin-top: 20px;
+}
+
+.first-level-about h2, .second-level-about h2, h1   {
+    margin-top: 8px;
+}
+
+.about-learn    {
+    color: grey;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px 8px;
+    font-weight: bold;
+    
+}
+
+
+.first-level-about  {
+    margin-top: 20px;
+}
+
+.horizontal-line   {
+    border: 1px dashed #444444;
+    margin-top: 30px;
+    margin-bottom: 35px;
+
+}
+
+section.strategy, section.places-we-work    {
+    margin-right: 10px;
+}
+
+.first-level-about img, .second-level-about img{
+    width: 100%;
+}
+
+section.how-we-work, section.collaboration  {
+    margin-left: 10px;
+}
+
+.container  {
+    margin-top: 15px;
+}
+
