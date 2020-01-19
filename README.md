@@ -4,11 +4,14 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
-1. If you were to describe semantic HTML to the next cohort of students, what would you say?  Sematic HTML introduces meaning to the web page rather than just presentation. It's separating structure with style and making it clear to the browser what the meaing of a page and content is.
+1. If you were to describe semantic HTML to the next cohort of students, what would you say?  
+
+Sematic HTML introduces meaning to the web page rather than just presentation. It's separating structure with style and making it clear to the browser what the meaing of a page and content is.
 
 
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
 Dispolay block means that the element is displayed as a block, as paagraph and headers while inline are displayed inside the current block on the same line.
 
 
